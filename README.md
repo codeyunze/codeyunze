@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 
 ### Tools I use
 
-<picture><img src="https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,netlify,jenkins,pnpm"></picture>
-
 <picture>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeyunze&show_icons=true&theme=radical)
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=codeyunze&show_icons=true&hide_border=true&line_height=24&theme=dark&t=1"
     media="(prefers-color-scheme: dark)"
